@@ -18,12 +18,14 @@ visit http://localhost:8000/
 
 ## Memo
 * PHP in atom looks like this:
+```
 <?php
   $my_name = "Qianqian!";
   $friend_name = "Maomao";
 ?>
 <?php echo "$my_name"; ?>/<?php echo $my_name ?>
 <?php echo "$friend_name"; ?>/<?php echo $friend_name ?>
+```
 * echo is the keyword
 * Every line of PHP code must end with a semicolon
 * Variable names must begin with $
