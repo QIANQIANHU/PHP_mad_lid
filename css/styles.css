@@ -1,0 +1,19 @@
+h1 {
+  color:#27544B;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body{
+  background-color: #ADCFD8;
+}
+.form-group{
+  font-size: 15px;
+}
+button{
+  background-color: #9BB1BA;
+  font-style: italic;
+  height: 40px;
+  width: auto;
+}
+p{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
